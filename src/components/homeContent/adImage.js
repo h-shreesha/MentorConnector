@@ -6,13 +6,10 @@ function AdImage() {
   return (
     <div className="adImageDiv">
       <div className="offerDiv">
-        <h2>Learn according to  schedule</h2>
-        
-        <p>
-          Study any topic, anywhere. Explore thousands of Mentors.
-        </p>
-        
-        
+        <h2>Learn according to schedule</h2>
+
+        <p>Study any topic, anywhere. Explore thousands of Mentors.</p>
+
         <div className="searchBarDiv">
           <input
             className="searchBar"
@@ -25,7 +22,7 @@ function AdImage() {
       </div>
       <img
         className="adImage"
-        src="../frnt design.jpg"
+        src="https://reputationtoday.in/wp-content/uploads/2020/09/Mentoring.png"
         alt="AdImage"
       />
     </div>
